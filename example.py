@@ -8,6 +8,7 @@ notes = {
     0: 'do the shopping',
     1: 'build the codez',
     2: 'paint the door',
+    3: 'coding in python'
 }
 
 def note_repr(key):
